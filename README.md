@@ -5,6 +5,8 @@
 The purpose of this app is to generate a quick and easier a team profile that display basic contact information for employees. The html is generated based on the users input using the Inquirer module from Node.js. It is provides the ability to test the constructors within the app using Jest.
  
  ![Screenshot](dist/assets/images/screenshot.png)
+ 
+ Video Link: https://watch.screencastify.com/v/ulcXLgBuMxUxbmhNZbVO
 
 ## Table of Contents
 * [Installation](#installation)
@@ -30,4 +32,4 @@ This project is license under MIT
 To run a Jest to test the constructors execute `npm test`. 
 
 ## Questions
-If you have any questions about this projects, please contact me directly at stbuntz@gmail.com. You can view more of my projects at https://github.com/sbuntz.
+If you have any questions about this projects, please contact me directly at stbuntz@gmail.com. You can view more of my projects at https://github.com/sbuntz.ideo
